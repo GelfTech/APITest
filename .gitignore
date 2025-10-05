@@ -1,0 +1,6 @@
+menv/
+__pycache__/
+*.pyc
+.env
+/staticfiles/
+db.sqlite3
